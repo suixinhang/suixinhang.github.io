@@ -7,3 +7,6 @@ p {
 body {
   font-family: "宋体", Arial, sans-serif;
 }
+.invisible{
+  visibility:invisible;
+}
